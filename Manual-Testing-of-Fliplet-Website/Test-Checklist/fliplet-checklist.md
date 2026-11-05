@@ -40,10 +40,10 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-017 | Check website at 320px width | Content fits the screen | Not Run |
-| TC-018 | Check website at 375px width | Content is displayed correctly | Not Run |
-| TC-019 | Check website at 768px width | Tablet layout is displayed correctly | Not Run |
-| TC-020 | Check website at 1440px width | Desktop layout is displayed correctly | Not Run |
+| TC-017 | Check website at 320px width | Content fits the screen | Passed |
+| TC-018 | Check website at 375px width | Content is displayed correctly | Passed |
+| TC-019 | Check website at 768px width | Tablet layout is displayed correctly | Passed |
+| TC-020 | Check website at 1440px width | Desktop layout is displayed correctly | Passed |
 | TC-021 | Check horizontal scrolling on mobile | No unwanted horizontal scrolling | Not Run |
 
 ## 6. Contact Form Testing
