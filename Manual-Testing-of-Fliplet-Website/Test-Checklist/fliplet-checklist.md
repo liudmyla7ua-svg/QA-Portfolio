@@ -15,8 +15,8 @@
 |---|---|---|---|
 | TC-005 | Click the main navigation links | Correct pages open | Passed |
 | TC-006 | Click the Fliplet logo | User is redirected to the homepage | Passed |
-| TC-007 | Check navigation menu usability | Menu is displayed and usable | Not Run |
-| TC-008 | Check external links | Links open the correct destinations | Not Run |
+| TC-007 | Check navigation menu usability | Menu is displayed and usable | Passed |
+| TC-008 | Check external links | Links open the correct destinations | Passed |
 
 ## 3. Buttons and Links Testing
 
