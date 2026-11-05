@@ -22,10 +22,10 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-009 | Click the "Book a Demo" button | Correct demo page or form opens | Not Run |
-| TC-010 | Click the "Explore the platform" button | Correct destination opens | Not Run |
-| TC-011 | Check CTA buttons on the homepage | Buttons respond to user interaction | Not Run |
-| TC-012 | Check links in the footer | Correct pages open | Not Run |
+| TC-009 | Click the "Book a Demo" button | Correct demo page or form opens | Passed |
+| TC-010 | Click the "Explore the platform" button | Correct destination opens |Passed |
+| TC-011 | Check CTA buttons on the homepage | Buttons respond to user interaction | Passed |
+| TC-012 | Check links in the footer | Correct pages open | Passed |
 
 ## 4. UI Testing
 
