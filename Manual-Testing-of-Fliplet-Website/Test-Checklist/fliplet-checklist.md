@@ -4,7 +4,7 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-001 | Open the Fliplet website | Website opens successfully | Not Run |
+| TC-001 | Open the Fliplet website | Website opens successfully | Passed |
 | TC-002 | Verify the website title | Correct page title is displayed | Not Run |
 | TC-003 | Check the website logo | Logo is displayed correctly | Not Run |
 | TC-004 | Refresh the homepage | Page reloads without errors | Not Run |
