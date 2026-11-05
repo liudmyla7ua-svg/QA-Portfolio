@@ -31,10 +31,10 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-013 | Check text alignment | Text is aligned correctly | Not Run |
-| TC-014 | Check images and illustrations | Images load correctly | Not Run |
-| TC-015 | Check font consistency | Fonts are displayed consistently | Not Run |
-| TC-016 | Check page layout | Elements do not overlap | Not Run |
+| TC-013 | Check text alignment | Text is aligned correctly | Passed |
+| TC-014 | Check images and illustrations | Images load correctly | Passed |
+| TC-015 | Check font consistency | Fonts are displayed consistently | Passed |
+| TC-016 | Check page layout | Elements do not overlap |Passed |
 
 ## 5. Responsive Testing
 
