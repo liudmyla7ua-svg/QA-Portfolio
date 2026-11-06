@@ -50,15 +50,15 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-022 | Click "Start for Free" | Registration form opens successfully | Not Run |
-| TC-023 | Check registration form fields | Email and Password fields are displayed | Not Run |
-| TC-024 | Submit the form with empty fields | Required field validation is displayed	| Not Run |
-| TC-025 | Enter an invalid email format | Invalid email format is rejected | Not Run |
-| TC-026 | Check password visibility toggle | Password visibility changes when clicking the eye icon | Not Run |
-| TC-027 | Check Create account button | Button is displayed and responds to clicking | Not Run |
-| TC-028 | Check Log in link | Login form opens successfully | Not Run |
-| TC-029 | Check Terms of Service link | Terms of Service page opens successfully | Not Run |
-| TC-030 | Check Privacy Policy link | Privacy Policy page opens successfully | Not Run |
+| TC-022 | Click "Start for Free" | Registration form opens successfully | Passed |
+| TC-023 | Check registration form fields | Email and Password fields are displayed | Passed |
+| TC-024 | Submit the form with empty fields | Required field validation is displayed	| Passed |
+| TC-025 | Enter an invalid email format | Invalid email format is rejected | Passed |
+| TC-026 | Check password visibility toggle | Password visibility changes when clicking the eye icon | Passed |
+| TC-027 | Check Create account button | Button is displayed and responds to clicking | Passed |
+| TC-028 | Check Log in link | Login form opens successfully | Passed |
+| TC-029 | Check Terms of Service link | Terms of Service page opens successfully | Passed |
+| TC-030 | Check Privacy Policy link | Privacy Policy page opens successfully | Passed |
 
 ## 7. Contact Form Testing
 
