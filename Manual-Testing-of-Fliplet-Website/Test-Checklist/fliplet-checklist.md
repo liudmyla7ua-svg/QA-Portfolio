@@ -64,12 +64,12 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-031 | Submit registration form with empty Email and valid Password |	Email validation message is displayed |	Not Run |
-| TC-032 | Submit registration form with valid Email and empty Password |	Password validation message is displayed | Not Run |
-| TC-033 | Enter email with missing @ symbol | Invalid email is rejected | Not Run |
-| TC-034 | Enter email with spaces | Invalid email is rejected or spaces are handled correctly | Not Run |
-| TC-035 | Check password visibility toggle |	Password can be shown and hidden | Not Run |
-| TC-036 | Check registration form using keyboard navigation | All interactive elements can be accessed using Tab and Enter |	Not Run |
+| TC-031 | Submit registration form with empty Email and valid Password |	Email validation message is displayed |	Passed |
+| TC-032 | Submit registration form with valid Email and empty Password |	Password validation message is displayed | Passed |
+| TC-033 | Enter email with missing @ symbol | Invalid email is rejected | Passed |
+| TC-034 | Enter email with spaces | Invalid email is rejected or spaces are handled correctly | Passed |
+| TC-035 | Check password visibility toggle |	Password can be shown and hidden | Passed |
+| TC-036 | Check registration form using keyboard navigation | All interactive elements can be accessed using Tab and Enter |	Passed |
 
 ## 7. Contact Form Testing
 
