@@ -71,6 +71,17 @@
 | TC-035 | Check password visibility toggle |	Password can be shown and hidden | Passed |
 | TC-036 | Check registration form using keyboard navigation | All interactive elements can be accessed using Tab and Enter |	Passed |
 
+## 8. Registration Form Responsive Testing
+
+| ID | Test Scenario | Expected Result | Status |
+|---|---|---|---|
+| TC-037 | Check registration form at 320px width |	Form is displayed correctly without horizontal scrolling | Not Run |
+| TC-038 | Check registration form at 375px width |	All form elements are visible and properly aligned |	Not Run |
+| TC-039 | Check registration form at 768px width |	Registration form is displayed correctly on tablet |	Not Run |
+| TC-040 | Check registration form buttons on mobile | Buttons are visible and clickable |	Not Run |
+| TC-041 | Check registration form fields on mobile |	Email and Password fields are fully visible and usable |	Not Run |
+| TC-042 | Check registration form scrolling on mobile | All form elements can be accessed by scrolling |	Not Run |
+
 ## 7. Contact Form Testing
 
 | ID | Test Scenario | Expected Result | Status |
