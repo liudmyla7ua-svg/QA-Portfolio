@@ -46,14 +46,23 @@
 | TC-020 | Check website at 1440px width | Desktop layout is displayed correctly | Passed |
 | TC-021 | Check horizontal scrolling on mobile | No unwanted horizontal scrolling | Passed |
 
-## 6. Contact Form Testing
+## 6. Registration Form Testing
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-022 | Open the Contact page | Contact page opens successfully | Not Run |
-| TC-023 | Check contact form fields | All expected fields are displayed | Not Run |
-| TC-024 | Check required field validation | Required fields are validated | Not Run |
+| TC-022 | 	Click "Start for Free" | Registration page opens successfully | Not Run |
+| TC-023 | Check registration form fields | All expected fields are displayed | Not Run |
+| TC-024 | Check required field validation | 	Required fields are validated | Not Run |
 | TC-025 | Check email field validation | Invalid email format is rejected | Not Run |
+
+## 7. Contact Form Testing
+
+| ID | Test Scenario | Expected Result | Status |
+|---|---|---|---|
+| TC-026 | Open the Contact page 	 | Contact page opens successfully | Not Run |
+| TC-027 | Check contact form fields | All expected fields are displayed | Not Run |
+| TC-028 | Check required field validation | Required fields are validated | Not Run |
+| TC-029 | Check email field validation | Invalid email format is rejected | Not Run |
 
 ---
 
