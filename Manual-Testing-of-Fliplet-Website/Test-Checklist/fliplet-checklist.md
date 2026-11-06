@@ -60,6 +60,17 @@
 | TC-029 | Check Terms of Service link | Terms of Service page opens successfully | Passed |
 | TC-030 | Check Privacy Policy link | Privacy Policy page opens successfully | Passed |
 
+## 7. Registration Form Validation
+
+| ID | Test Scenario | Expected Result | Status |
+|---|---|---|---|
+| TC-031 | Submit registration form with empty Email and valid Password |	Email validation message is displayed |	Not Run |
+| TC-032 | Submit registration form with valid Email and empty Password |	Password validation message is displayed | Not Run |
+| TC-033 | Enter email with missing @ symbol | Invalid email is rejected | Not Run |
+| TC-034 | Enter email with spaces | Invalid email is rejected or spaces are handled correctly | Not Run |
+| TC-035 | Check password visibility toggle |	Password can be shown and hidden | Not Run |
+| TC-036 | Check registration form using keyboard navigation | All interactive elements can be accessed using Tab and Enter |	Not Run |
+
 ## 7. Contact Form Testing
 
 | ID | Test Scenario | Expected Result | Status |
