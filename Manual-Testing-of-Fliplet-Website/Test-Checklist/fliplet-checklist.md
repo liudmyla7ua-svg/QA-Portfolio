@@ -82,7 +82,18 @@
 | TC-041 | Check registration form fields on mobile |	Email and Password fields are fully visible and usable |	Not Run |
 | TC-042 | Check registration form scrolling on mobile | All form elements can be accessed by scrolling |	Not Run |
 
-## 7. Contact Form Testing
+## 9. Registration Flow Testing
+
+| ID | Test Scenario | Expected Result | Status |
+|---|---|---|---|
+| TC-043 | Register with valid email and password |	Registration process proceeds successfully | Not Run |
+| TC-044 | Register with an already registered email | System displays an appropriate error message |	Not Run |
+| TC-045 | Check email verification process |	Verification email is sent successfully |	Not Run | 
+| TC-046 | Open email verification link |	Email is verified successfully | Not Run |
+| TC-047 | Log in with newly registered account |	User successfully logs in |	Not Run |
+| TC-048 | Log out from the account |	User successfully logs out | Not Run |
+
+## 10. Contact Form Testing
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
