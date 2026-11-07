@@ -75,12 +75,12 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-037 | Check registration form at 320px width |	Form is displayed correctly without horizontal scrolling | Not Run |
-| TC-038 | Check registration form at 375px width |	All form elements are visible and properly aligned |	Not Run |
-| TC-039 | Check registration form at 768px width |	Registration form is displayed correctly on tablet |	Not Run |
-| TC-040 | Check registration form buttons on mobile | Buttons are visible and clickable |	Not Run |
-| TC-041 | Check registration form fields on mobile |	Email and Password fields are fully visible and usable |	Not Run |
-| TC-042 | Check registration form scrolling on mobile | All form elements can be accessed by scrolling |	Not Run |
+| TC-037 | Check registration form at 320px width |	Form is displayed correctly without horizontal scrolling | Passed |
+| TC-038 | Check registration form at 375px width |	All form elements are visible and properly aligned |	Passed |
+| TC-039 | Check registration form at 768px width |	Registration form is displayed correctly on tablet |	Passed |
+| TC-040 | Check registration form buttons on mobile | Buttons are visible and clickable |	Passed |
+| TC-041 | Check registration form fields on mobile |	Email and Password fields are fully visible and usable |	Passed |
+| TC-042 | Check registration form scrolling on mobile | All form elements can be accessed by scrolling |	Passed |
 
 ## 9. Registration Flow Testing
 
