@@ -86,12 +86,12 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-043 | Register with valid email and password |	Registration process proceeds successfully | Not Run |
-| TC-044 | Register with an already registered email | System displays an appropriate error message |	Not Run |
-| TC-045 | Check email verification process |	Verification email is sent successfully |	Not Run | 
-| TC-046 | Open email verification link |	Email is verified successfully | Not Run |
-| TC-047 | Log in with newly registered account |	User successfully logs in |	Not Run |
-| TC-048 | Log out from the account |	User successfully logs out | Not Run |
+| TC-043 | Register with valid email and password |	Registration process proceeds successfully | Passed |
+| TC-044 | Register with an already registered email | System displays an appropriate error message |	Passed |
+| TC-045 | Check email verification process |	Verification email is sent successfully |	Passed | 
+| TC-046 | Open email verification link |	Email is verified successfully | Passed |
+| TC-047 | Log in with newly registered account |	User successfully logs in | Passed |
+| TC-048 | Log out from the account |	User successfully logs out | Passed |
 
 ## 10. Contact Form Testing
 
